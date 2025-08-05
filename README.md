@@ -40,11 +40,11 @@ María José Estrela</em> (2025). <strong>Empirical methods to determine surface
 
 <h2>🔗 Connect with Me</h2>
 <p>
-  <a href="www.linkedin.com/in/joan-vedri-casino" target="_blank">
+  <a href="https://www.linkedin.com/in/joan-vedri-casino" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 
-  <a href="https://orcid.org/your-orcid-id](https://orcid.org/0009-0008-5890-1051" target="_blank">
+  <a href="https://orcid.org/0009-0008-5890-1051" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="50" height="50"/>
   </a>
 </p>
